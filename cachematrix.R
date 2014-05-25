@@ -1,3 +1,6 @@
+# Greg
+# R programming assignment 2
+# JHU - Coursera
 		# Purpose: to cache the matrix's inverse
 		# so that repeated calculations can be minimized
 		# Note: this function's output is a list of other functions
